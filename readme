@@ -1,0 +1,9 @@
+Step 1 : npm install typescript --save-dev
+Step 2 : npm install mongoose --save
+Step 3 : npm install express --save
+Step 4 : tsc --init
+Step 5 : tsconfig -> "rootDir": "./src"
+Step 6 : tsconfig -> "outDir": "./dist"
+Step 7 : create -> .gitignore -- node_modules, .env
+Step 8 : npm install dotenv
+Step 9 :
