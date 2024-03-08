@@ -6,4 +6,5 @@ Step 5 : tsconfig -> "rootDir": "./src"
 Step 6 : tsconfig -> "outDir": "./dist"
 Step 7 : create -> .gitignore -- node_modules, .env
 Step 8 : npm install dotenv
-Step 9 : Create - server.ts
+Step 9 : create - server.ts
+Step 10 : create - app.ts
