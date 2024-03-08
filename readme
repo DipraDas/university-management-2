@@ -8,3 +8,7 @@ Step 7 : create -> .gitignore -- node_modules, .env
 Step 8 : npm install dotenv
 Step 9 : create - server.ts
 Step 10 : create - app.ts
+Step 11: Code er vul eslint
+Step 12 : Format preetier
+Step 13 : Husky - Pre commit hook
+Step 14 : Linstit - Only staging files
