@@ -7,6 +7,8 @@ app.use(cors())
 
 //parser
 
+console.log(app.get('env'))
+
 app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
