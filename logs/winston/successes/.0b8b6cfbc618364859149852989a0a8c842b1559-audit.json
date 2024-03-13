@@ -14,6 +14,11 @@
             "date": 1710339738206,
             "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-13-03-2024-20-success.log",
             "hash": "094e3f461a329548de415a2731cf818124c6d7f6ff3c79520d0f673560febbd1"
+        },
+        {
+            "date": 1710343204965,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-13-03-2024-21-success.log",
+            "hash": "40513633ef0b2580f5e25b823d51346967e7ec77707056b0ba0c245408b225a4"
         }
     ],
     "hashType": "sha256"

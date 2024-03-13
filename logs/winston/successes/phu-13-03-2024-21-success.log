@@ -1,0 +1,28 @@
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-13T15:20:05.783Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-13T15:20:05.791Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-13T15:27:43.571Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-13T15:27:43.573Z'
+}
