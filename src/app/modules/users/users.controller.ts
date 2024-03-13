@@ -1,6 +1,11 @@
 import { RequestHandler } from 'express-serve-static-core'
 import usersService from './users.service'
-const createUser: RequestHandler = async (req, res, next) => {
+import { NextFunction, Request, Response } from 'express'
+const createUser: RequestHandler = async (
+  req: Request,
+  res: Response,
+  next: NextFunction,
+) => {
   try {
     const { user } = req.body
     const result = await usersService.createUser(user)
@@ -11,6 +16,9 @@ const createUser: RequestHandler = async (req, res, next) => {
     })
   } catch (err) {
     next(err)
+    // res.status(400).json({
+    //   error: err,
+    // })
   }
 }
 
