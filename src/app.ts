@@ -17,7 +17,8 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/app/v1/users', UserRoutes)
 
 app.get('/', (req: Request, res: Response, next: NextFunction) => {
-  throw new ApiError(400, 'O re baba')
+  Promise.reject(new Error('Unhanled Promise Rejection'))
+  //   throw new ApiError(400, 'O re baba')
   //   next('ore baba error')
 })
 

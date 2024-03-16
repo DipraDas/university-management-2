@@ -1,0 +1,6 @@
+{
+  level: 'error',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:49:35.096Z'
+}
