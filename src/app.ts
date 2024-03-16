@@ -1,7 +1,8 @@
 import express, { Application, NextFunction, Request, Response } from 'express'
 import cors from 'cors'
-import { UserRoutes } from './app/modules/users/users.route'
 import globalErrorHandler from './app/middlewares/globalErrorHandler'
+import { UserRoutes } from './app/modules/users/user.route'
+import ApiError from './errors/ApiError'
 const app: Application = express()
 
 app.use(cors())
@@ -15,10 +16,10 @@ app.use(express.urlencoded({ extended: true }))
 
 app.use('/app/v1/users', UserRoutes)
 
-// app.get('/', (req: Request, res: Response, next: NextFunction) => {
-//   //   throw new ApiError(400, 'O re baba')
-//   next('ore baba error')
-// })
+app.get('/', (req: Request, res: Response, next: NextFunction) => {
+  throw new ApiError(400, 'O re baba')
+  //   next('ore baba error')
+})
 
 app.use(globalErrorHandler)
 
