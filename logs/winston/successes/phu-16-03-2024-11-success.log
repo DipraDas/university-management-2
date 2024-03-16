@@ -180,3 +180,45 @@
   label: 'Dipra',
   timestamp: '2024-03-16T05:48:43.741Z'
 }
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:56:18.926Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:56:18.930Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:56:37.446Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:56:37.538Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:57:41.422Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T05:57:41.425Z'
+}
