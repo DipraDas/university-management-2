@@ -19,3 +19,171 @@
   label: 'Dipra',
   timestamp: '2024-03-16T07:03:25.428Z'
 }
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:12:19.513Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:12:35.257Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:12:35.262Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:13:21.076Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:13:25.180Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:13:25.187Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:14:28.365Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:21:46.834Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:21:46.841Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:23:34.343Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:23:56.262Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:23:56.268Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:24:20.508Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:24:35.098Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:24:35.106Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:27:39.880Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:32:53.788Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:32:53.792Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:34:34.308Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:35:01.738Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:35:01.745Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:35:08.857Z'
+}
+{
+  message: 'database connected successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:35:25.416Z'
+}
+{
+  message: 'Example app listening on port 5300',
+  level: 'info',
+  service: 'user-service',
+  label: 'Dipra',
+  timestamp: '2024-03-16T07:35:25.422Z'
+}
