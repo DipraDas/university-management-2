@@ -1,30 +1,16 @@
-import { Model, Schema, model } from 'mongoose'
+import { Schema, model } from 'mongoose'
 import {
     AcademicSemesterModel,
     IAcademicSemester,
 } from './academicSemester.interface'
-
-const Month = [
-    'January',
-    'February',
-    'March',
-    'April',
-    'May',
-    'June',
-    'July',
-    'August',
-    'September',
-    'October',
-    'November',
-    'December',
-]
+import { academicSemesterCode, academicSemesterMonths, academicSemesterTitle } from './academicSemester.constants'
 
 const academicSemesterSchema = new Schema<IAcademicSemester>(
     {
         title: {
             type: String,
             required: true,
-            enum: ['Autumn', 'Summer', 'Fall'],
+            enum: academicSemesterTitle,
         },
         year: {
             type: Number,
@@ -33,17 +19,17 @@ const academicSemesterSchema = new Schema<IAcademicSemester>(
         code: {
             type: String,
             required: true,
-            enum: ['01', '02', '03'],
+            enum: academicSemesterCode,
         },
         startMonth: {
             type: String,
             required: true,
-            enum: Month,
+            enum: academicSemesterMonths,
         },
         endMonth: {
             type: String,
             required: true,
-            enum: Month,
+            enum: academicSemesterMonths,
         },
     },
     {
