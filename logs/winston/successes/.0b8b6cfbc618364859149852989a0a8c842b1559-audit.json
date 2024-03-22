@@ -39,6 +39,46 @@
             "date": 1710572495730,
             "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-16-03-2024-13-success.log",
             "hash": "4a37d13721b185f5d99b243940b124140146e6fe0701b8e2553eab408f595828"
+        },
+        {
+            "date": 1710683381520,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-17-03-2024-19-success.log",
+            "hash": "a9b1050fd80321289827854683a2a1dfcda46e6f341046bf86beea2de3d69057"
+        },
+        {
+            "date": 1710684372601,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-17-03-2024-20-success.log",
+            "hash": "ba74e41018d2772c1ed13565283ca49187acedab0043d37950bd4f1021779679"
+        },
+        {
+            "date": 1710770212360,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-18-03-2024-19-success.log",
+            "hash": "7f5ae17d868652128f3727831eca37f312c573f2c85c67324090ccbe2ecec191"
+        },
+        {
+            "date": 1710770778720,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-18-03-2024-20-success.log",
+            "hash": "68cda9ad35277574b5a5b29397a24ccc05e9324ed6b14b461eb71fd0feb991d7"
+        },
+        {
+            "date": 1710774220126,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-18-03-2024-21-success.log",
+            "hash": "55121f336dd6a27a1d60d84aac2f8c7ac7805f8a5f91cceae045cbcf066e6783"
+        },
+        {
+            "date": 1711115908197,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-22-03-2024-19-success.log",
+            "hash": "cd3d65e758ff4bf1fac414b01c6c385379947a7d975165ea6f8859ca7073929f"
+        },
+        {
+            "date": 1711116153780,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-22-03-2024-20-success.log",
+            "hash": "788f194f8196c2a0de434044261d9ab78ee80d85f492b94e92eb5c5aee389f33"
+        },
+        {
+            "date": 1711120316540,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/successes/phu-22-03-2024-21-success.log",
+            "hash": "be83f0d561da7d11666163d2e511dfe39705de1c75f6f052126f145505708712"
         }
     ],
     "hashType": "sha256"

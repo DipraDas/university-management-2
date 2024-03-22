@@ -39,6 +39,46 @@
             "date": 1710572603867,
             "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-16-03-2024-13-error.log",
             "hash": "a90835e0fc0eb74d154ed29e0adbb1ddda7489d11b659678dbbc05e1b3cc0bc0"
+        },
+        {
+            "date": 1710683381522,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-17-03-2024-19-error.log",
+            "hash": "3eaae537774df87b9369e8dc5502760668619312e074dc99d815e8eaab979f5a"
+        },
+        {
+            "date": 1710684372603,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-17-03-2024-20-error.log",
+            "hash": "45564c8661b899617645dbf76c3d3efdfd2b17842b0045d65cb87c7149a8f5d6"
+        },
+        {
+            "date": 1710770212362,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-18-03-2024-19-error.log",
+            "hash": "abf20fdf00651eb36a8db1c583be0e7f8451784bc0598dbe5a420b691e34839c"
+        },
+        {
+            "date": 1710770806180,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-18-03-2024-20-error.log",
+            "hash": "144e3bf1dab0cf062d9d0ca27032612708583f36e3763f28509334bb3901ba3f"
+        },
+        {
+            "date": 1710774220128,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-18-03-2024-21-error.log",
+            "hash": "663919a4d6c930e0a7198c04c546d2ec167c91cd3ee38618febfd06636585ed7"
+        },
+        {
+            "date": 1711115908199,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-22-03-2024-19-error.log",
+            "hash": "318bbc02db6259bd90c948b39d11713379923353f3ab2f5168173f250d8a75a5"
+        },
+        {
+            "date": 1711116158832,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-22-03-2024-20-error.log",
+            "hash": "5770c081e4db9b802b8f6048d74530e9064f110e78a5675577081aef447c02ba"
+        },
+        {
+            "date": 1711120324085,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-22-03-2024-21-error.log",
+            "hash": "126c27537c44e45a4dfd6f4cadf19d5dcc7ad392a4b1662b4be4ba41799e32ec"
         }
     ],
     "hashType": "sha256"

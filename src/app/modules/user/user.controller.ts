@@ -1,21 +1,18 @@
 import { RequestHandler } from 'express-serve-static-core'
-import { NextFunction, Request, Response } from 'express'
 import { UserService } from './user.service'
-import { z } from 'zod'
+
 const createUser: RequestHandler = async (req, res, next) => {
   try {
     const { user } = req.body
+    console.log('user-------', user)
     const result = await UserService.createUser(user)
     res.status(200).json({
       success: true,
-      message: 'user created successfully!',
+      message: 'User created successfully!',
       data: result,
     })
   } catch (err) {
     next(err)
-    // res.status(400).json({
-    //   error: err,
-    // })
   }
 }
 
