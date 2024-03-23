@@ -79,6 +79,11 @@
             "date": 1711120324085,
             "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-22-03-2024-21-error.log",
             "hash": "126c27537c44e45a4dfd6f4cadf19d5dcc7ad392a4b1662b4be4ba41799e32ec"
+        },
+        {
+            "date": 1711202432161,
+            "name": "/Users/dipra/Documents/university-management/logs/winston/errors/phu-23-03-2024-20-error.log",
+            "hash": "b923f6f677986d007331d12dd2f34d7d306415281d8f4b5ee9060cb7ea06c882"
         }
     ],
     "hashType": "sha256"
