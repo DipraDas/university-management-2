@@ -8,19 +8,13 @@ import httpStatus from 'http-status'
 const createSemester = catchAsync(async (req: Request, res: Response, next: NextFunction) => {
     const { ...academicSemesterData } = req.body
     const result = await AcademicSemesterService.createSemester(academicSemesterData)
-    next();
-    // res.status(200).json({
-    //     success: true,
-    //     message: 'Semester created successfully!',
-    //     data: result,
-    // })
-
     sendResponse(res, {
         statusCode: httpStatus.OK,
         success: true,
         message: 'Academic semester created successfully',
         data: result
     })
+    next();
 })
 
 export const AcademicSemesterController = {
